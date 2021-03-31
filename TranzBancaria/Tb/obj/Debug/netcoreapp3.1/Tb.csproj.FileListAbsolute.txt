@@ -1,0 +1,13 @@
+C:\Users\NoteBook\Desktop\TranzBancaria\Tb\bin\Debug\netcoreapp3.1\Tb.exe
+C:\Users\NoteBook\Desktop\TranzBancaria\Tb\bin\Debug\netcoreapp3.1\Tb.deps.json
+C:\Users\NoteBook\Desktop\TranzBancaria\Tb\bin\Debug\netcoreapp3.1\Tb.runtimeconfig.json
+C:\Users\NoteBook\Desktop\TranzBancaria\Tb\bin\Debug\netcoreapp3.1\Tb.runtimeconfig.dev.json
+C:\Users\NoteBook\Desktop\TranzBancaria\Tb\bin\Debug\netcoreapp3.1\Tb.dll
+C:\Users\NoteBook\Desktop\TranzBancaria\Tb\bin\Debug\netcoreapp3.1\Tb.pdb
+C:\Users\NoteBook\Desktop\TranzBancaria\Tb\obj\Debug\netcoreapp3.1\Tb.csprojAssemblyReference.cache
+C:\Users\NoteBook\Desktop\TranzBancaria\Tb\obj\Debug\netcoreapp3.1\Tb.AssemblyInfoInputs.cache
+C:\Users\NoteBook\Desktop\TranzBancaria\Tb\obj\Debug\netcoreapp3.1\Tb.AssemblyInfo.cs
+C:\Users\NoteBook\Desktop\TranzBancaria\Tb\obj\Debug\netcoreapp3.1\Tb.csproj.CoreCompileInputs.cache
+C:\Users\NoteBook\Desktop\TranzBancaria\Tb\obj\Debug\netcoreapp3.1\Tb.dll
+C:\Users\NoteBook\Desktop\TranzBancaria\Tb\obj\Debug\netcoreapp3.1\Tb.pdb
+C:\Users\NoteBook\Desktop\TranzBancaria\Tb\obj\Debug\netcoreapp3.1\Tb.genruntimeconfig.cache
